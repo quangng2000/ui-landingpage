@@ -1,0 +1,206 @@
+.mobileDeveloperChild {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 9px 2px rgba(0, 0, 0, 0.05);
+  width: 419px;
+  height: 365px;
+}
+.mobileWebDeveloper,
+.viewWork {
+  position: absolute;
+  top: 347px;
+  left: 30px;
+  line-height: 146.3%;
+}
+.viewWork {
+  top: 358px;
+  left: 317px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.mobileDeveloperItem {
+  position: absolute;
+  top: 356px;
+  left: 305px;
+  border-radius: var(--br-81xl);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 92px;
+  height: 23px;
+}
+.dCasualLifeStatistics1Icon {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 304px;
+  height: 313px;
+  object-fit: cover;
+}
+.mobileDeveloper {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  width: 419px;
+  height: 417px;
+}
+.cybersecurity,
+.viewWork1 {
+  position: absolute;
+  top: 357px;
+  left: 30px;
+  line-height: 146.3%;
+}
+.viewWork1 {
+  top: 368px;
+  left: 317px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.cyberSecurityChild {
+  position: absolute;
+  top: 366px;
+  left: 305px;
+  border-radius: var(--br-81xl);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 92px;
+  height: 23px;
+}
+.dCasualLifeHappyManAndWeIcon {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 305px;
+  height: 323px;
+  object-fit: cover;
+}
+.cyberSecurity,
+.offshoreChild {
+  position: absolute;
+  top: 2px;
+  left: 462px;
+  width: 419px;
+  height: 427px;
+}
+.offshoreChild {
+  top: 64px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 9px 2px rgba(0, 0, 0, 0.05);
+  height: 365px;
+}
+.offshoreOutsourcing,
+.viewWork2 {
+  position: absolute;
+  line-height: 146.3%;
+}
+.offshoreOutsourcing {
+  top: 359px;
+  left: 22px;
+  display: inline-block;
+  width: 282px;
+}
+.viewWork2 {
+  top: 370px;
+  left: 318px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.offshoreItem {
+  position: absolute;
+  top: 368px;
+  left: 306px;
+  border-radius: var(--br-81xl);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 92px;
+  height: 23px;
+}
+.casualLife3dYoungManInHeIcon {
+  position: absolute;
+  top: 0;
+  left: 73px;
+  width: 251px;
+  height: 301px;
+  object-fit: cover;
+}
+.offshore,
+.uxUiChild {
+  position: absolute;
+  top: 0;
+  left: 924px;
+  width: 419px;
+  height: 429px;
+}
+.uxUiChild {
+  top: 62px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 9px 2px rgba(0, 0, 0, 0.05);
+  height: 365px;
+}
+.uxUi1,
+.viewWork3 {
+  position: absolute;
+  line-height: 146.3%;
+}
+.uxUi1 {
+  top: 348px;
+  left: 18px;
+  display: inline-block;
+  width: 244px;
+}
+.viewWork3 {
+  top: 368px;
+  left: 318px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.uxUiItem {
+  position: absolute;
+  top: 366px;
+  left: 306px;
+  border-radius: var(--br-81xl);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 92px;
+  height: 23px;
+}
+.dCasualLifeGraphicDesignSIcon {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  width: 368px;
+  height: 272px;
+  object-fit: cover;
+}
+.uxUi {
+  position: absolute;
+  top: 2px;
+  left: 1386px;
+  width: 419px;
+  height: 427px;
+}
+.groupWrapper,
+.mobileDeveloperParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1805px;
+  height: 429px;
+}
+.groupWrapper {
+  top: 993px;
+  left: 263px;
+  width: 1136px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-hind-vadodara);
+}

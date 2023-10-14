@@ -1,0 +1,65 @@
+.home2 {
+  font-weight: 600;
+}
+.home1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+}
+.home {
+  position: relative;
+  width: 43px;
+  height: 24px;
+}
+.aboutUs,
+.contactUs,
+.services {
+  position: relative;
+  width: 70px;
+  height: 24px;
+}
+.contactUs,
+.services {
+  width: 62px;
+}
+.contactUs {
+  width: 77px;
+}
+.riftCo11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 16.51%;
+  right: 0;
+  bottom: -16.51%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component1Icon,
+.riftCo1 {
+  position: relative;
+  width: 212px;
+  height: 212px;
+}
+.component1Icon {
+  width: 62.76px;
+  height: 64.88px;
+}
+.component4 {
+  position: absolute;
+  top: -35px;
+  left: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-75xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-hind-vadodara);
+}

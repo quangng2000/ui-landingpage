@@ -1,0 +1,73 @@
+.groupChild {
+  position: absolute;
+  top: 47.5px;
+  left: 91.5px;
+  width: 147.5px;
+  height: 7px;
+}
+.ourClients {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.01em;
+  line-height: 106.3%;
+}
+.oracleLogo1Icon,
+.vectorParent {
+  position: relative;
+  width: 237px;
+  height: 51px;
+}
+.oracleLogo1Icon {
+  width: 180px;
+  height: 23.48px;
+  object-fit: cover;
+}
+.usBank41Icon {
+  position: relative;
+  width: 180px;
+  height: 46px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.pxDeloitte1Icon {
+  position: relative;
+  width: 180px;
+  height: 38.78px;
+  object-fit: cover;
+}
+.frameWrapper,
+.oracleLogo1Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 915px;
+}
+.oracleLogo1Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frameWrapper {
+  height: 46px;
+}
+.groupWrapper {
+  position: relative;
+  width: 915px;
+  height: 46px;
+}
+.groupParent {
+  position: absolute;
+  top: 2272px;
+  left: 267px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-32xl);
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-hind-vadodara);
+}
